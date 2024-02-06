@@ -1,0 +1,73 @@
+{
+  "videos": [
+    {
+      "id": "10",
+      "caption": "kgf 1",
+      "url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16345736_v_v9_ad.jpg",
+      "embedLink": "https://www.youtube.com/embed/7bB80VKb1xo"
+    },
+    {
+      "id": "11",
+      "caption": "kgf 2",
+      "url": "https://m.media-amazon.com/images/S/pv-target-images/f5a21f64af7359f7aaa7c29dee8a12a97630e707cdbf71e0ae6b063322fb8575.jpg",
+      "embedLink": "https://www.youtube.com/embed/fQOjh-mmNKo"
+    },
+    {
+      "id": "12",
+      "caption": "bahubali 1",
+      "url": "https://c8.alamy.com/comp/HAH93Y/bahubali-the-beginning-year-2015-india-director-ss-rajamouli-prabhas-HAH93Y.jpg",
+      "embedLink": "https://www.youtube.com/embed/sOEg_YZQsTI"
+    },
+    {
+      "id": "13",
+      "caption": "bahubali 2",
+      "url": "https://rukminim2.flixcart.com/image/850/1000/kzygpzk0/poster/r/q/s/large-movie-bahubali-2-posters-on-large-print-36x24-inches-original-imagbukjsjtksjsg.jpeg?q=20&crop=false",
+      "embedLink": "https://www.youtube.com/embed/G62HrubdD6o"
+    },
+    {
+      "id": "14",
+      "caption": "12th fail",
+      "url": "https://m.media-amazon.com/images/M/MV5BZDI4OTM1ZjMtOWQxMC00OTY5LTg3NjQtMjlhMWVjODFlYTY4XkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_.jpg",
+      "embedLink": "https://www.youtube.com/embed/WeMJo701mvQ"
+    },
+    {
+      "id": "15",
+      "caption": "salaar",
+      "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2023/12/Salaar-322x465.jpg",
+      "embedLink": "https://www.youtube.com/embed/Pr2jBvbiy04"
+    },
+    {
+      "id": "16",
+      "caption": "malaikottai vaaliban",
+      "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202304/malaikottai-three_four.jpg?VersionId=.80c0Qg2ku1_CgYm0XMQsVEJunhNUPMm",
+      "embedLink": "https://www.youtube.com/embed/vqDLiObvefA"
+    },
+    {
+      "id": "17",
+      "caption": "neru",
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/d8fcfd186975537.Y3JvcCwzMDAwLDIzNDYsMCwyMzA.jpg",
+      "embedLink": "https://www.youtube.com/embed/abuLOH7xs8I"
+    },
+    {
+      "id": "18",
+      "caption": "beeshma parvam",
+      "url": "https://static.toiimg.com/photo/88523964.cms",
+      "embedLink": "https://www.youtube.com/embed/41GswFhjRWk"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Film",
+      "allVideos": [
+        {
+          "id": "12",
+          "caption": "bahubali 1",
+          "url": "https://c8.alamy.com/comp/HAH93Y/bahubali-the-beginning-year-2015-india-director-ss-rajamouli-prabhas-HAH93Y.jpg",
+          "embedLink": "https://www.youtube.com/embed/sOEg_YZQsTI"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "history": []
+}

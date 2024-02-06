@@ -1,0 +1,25 @@
+1.create json server
+2.get node configuration file   (npm init -y)
+3.insatlled (npm i json-server)
+4.create .gitignore  mention node_modules
+5.create db.json file  (key value formatil set aaki   {
+    "videos":[],
+    "categories":[],
+    "history":[]
+})
+6.index.js file created
+
+
+
+
+Lifting State up in react
+
+Lifting up the State: As we know, every component in React has its own state. 
+Because of this sometimes data can be redundant and inconsistent.
+ So, by Lifting up the state we make the state of the parent component as a single source of truth and
+  pass the data of the parent in its children.
+
+  Time to use Lift up the State: If the data in “parent and children components” or in “cousin components” is Not in Sync.
+
+Example 1: If we have 2 components in our App. A -> B where, A is parent of B. keeping the same data in both Component 
+A and B might cause inconsistency of data. 
